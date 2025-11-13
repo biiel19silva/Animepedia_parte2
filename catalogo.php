@@ -87,8 +87,6 @@ $error = $result['error'];
     </main>
     <?php include 'footer.php'; ?>
     <script src="js/tema.js"></script>
-            </tbody>
-        </table>
 </body>
   
 </html>
