@@ -13,8 +13,6 @@
     <?php include 'nav.php'; ?>
     <main>
         <h2>Equipe de Desenvolvimento desse Web Site</h2>
-        <!--ul significa unordered list(lista não ordenada)-->
-        <!--li significa list item, item de lista-->
         <ul>
             <li>Gabriel de Jesus Silva (matricula: 202302376924)</li>
         </ul>
