@@ -85,6 +85,7 @@ $error = $result['error'];
     <main>
         <h2>Catálogo de personagens</h2>
         <p>Veja abaixo os personagens já cadastrados em nosso banco de dados.</p>
+        <a href="anime_form.php"><button type="button">Cadastrar Novo Personagem</button></a>
         <table id="tabela" border="1"> 
             <thead>
                 <tr>
